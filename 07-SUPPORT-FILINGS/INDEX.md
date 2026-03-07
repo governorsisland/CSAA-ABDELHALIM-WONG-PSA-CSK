@@ -40,6 +40,12 @@ as part of the open record.
 
 ---
 
+## Legal Analysis and Fatal Proof
+
+| Document | Description |
+|---|---|
+| [Fatal Proof of Extrinsic Fraud: The Navaratnasingham "Dolan" Admission](../FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) | Comprehensive analysis of the April 16, 2025 admission (RT 7, p. 214, ll. 13-15) and its contradiction of prior MIL and hearing representations; chain of contradicting statements; three-leg framework; judicial estoppel; Rule 3.3 and B&P Code 6068(d); deployment guidance |
+
 ## Related Reading
 
 - [Journal Article: Institutional Fraud, Record Architecture, and the Three-Front Pressure System](../JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md)

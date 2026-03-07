@@ -34,11 +34,22 @@ material evidence and fairly litigate liability.
 
 ### The Critical Evidence
 
-- **911 call recording:** Defendant Abdelhalim stated *"I barely hit him with anything."*
-  Plaintiff's former counsel obtained this through a routine public records request within
-  three months of the collision. CSAA never obtained it before issuing its denial.
-- **Body-worn camera footage:** Contained eyewitness statements material to liability.
-- **CAD dispatch logs:** Contemporaneous record of the incident.
+- **The Navaratnasingham "Dolan" admission (RT 7, p. 214, ll. 13-15):** On April 16, 2025, defense
+  counsel stated: *"Sure. They were provided by Dolan. He has had them for whatever, sure."* This
+  contradicts her MIL No. 17 representations (Jan. 17, 2025) that the materials were "not produced
+  during discovery," "eleventh hour," and of "unknown provenance," and her Feb. 18, 2025 hearing
+  statements ("news to me," "did not receive until the day of the MSC"). Body cams, 911 audio, and
+  CAD log were served together in the same discovery production (Jessup testimony, Hearing Tr. pp. 139-140).
+  The Substitution of Attorney (May 4, 2023, Transaction ID 69953800) establishes PSA had the defense
+  file for approximately 20 months before trial.
+- **911 call recording:** Defendant Abdelhalim stated *"I barely hit him with anything."* Authenticated
+  at trial: "Yes. That is my voice." (RT Day 8, l. 1979.) Plaintiff's former counsel obtained this
+  through a routine public records request within three months of the collision. CSAA never obtained
+  it before issuing its denial.
+- **Body-worn camera footage:** Contained eyewitness statements material to liability. Navaratnasingham
+  admitted the body cams were "provided by Dolan" and that the defense had curated five videos down to
+  8-9 minutes for the jury.
+- **CAD dispatch logs:** Contemporaneous record of the incident; part of the same Dolan production.
 
 ---
 

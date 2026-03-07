@@ -219,6 +219,17 @@ Plaintiff alleges the verdict was obtained through a scheme by which the defense
    false representations
 3. Prevented Plaintiff from presenting material evidence at trial in a usable, timely manner
 
+**Operational linchpin:** On April 16, 2025 (Trial Day 7), defense counsel Priya D. Navaratnasingham
+stated at RT 7, p. 214, ll. 13-15: *"Sure. They were provided by Dolan. He has had them for whatever, sure."*
+This admission is irreconcilable with her prior representations in MIL No. 17 (Jan. 17, 2025) that the
+materials were "not produced during discovery," "eleventh hour," and of "unknown provenance," and with
+her February 18, 2025 hearing statements that the 911 evidence was "news to me" and "did not receive
+until the day of the MSC." Jeremy Jessup (Dolan Law Firm) testified that body cam footage, 911 audio,
+and CAD log were "produced to defense counsel" and "served on them" in discovery. The Substitution of
+Attorney (May 4, 2023, Transaction ID 69953800) establishes PSA had constructive possession of the
+defense file for approximately 20 months before trial. The Court relied on the false pre-trial
+representations to deny continuances (Hearing Tr. p. 181) and grant exclusionary MILs.
+
 The 911 call recording contained Defendant Abdelhalim's own words: *"I barely hit him with anything."*
 Plaintiff's former counsel had obtained this recording within three months of the collision through
 a routine public records request. CSAA issued a denial letter within 21 days of the collision
@@ -249,6 +260,7 @@ The post-trial litigation was designed so that:
 ## Legal Analysis
 
 - [Journal Article: Institutional Fraud, Record Architecture, and the Three-Front Pressure System](JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md)
+- [Fatal Proof of Extrinsic Fraud: The Navaratnasingham "Dolan" Admission](FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md)
 
 ---
 
