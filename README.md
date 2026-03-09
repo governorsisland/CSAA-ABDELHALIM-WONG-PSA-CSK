@@ -58,11 +58,126 @@ Four years later, at the threshold of trial, defense counsel told the court the 
 
 ---
 
+## Available Evidence
+
+Audio, video, and images from the February 4, 2021 incident. The 911 call captures the driver's admission; body camera footage records the eyewitness; the police report omitted all of it.
+
+### Key Evidence (omitted from police report)
+
+**Impact marks on van.** The police report claimed no marks and no impact with pedestrian. Body camera and scene photos document otherwise:
+
+![Impact marks on van](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FdU1vEZid42ToIcdTJW4F%2FScreenshot%202025-01-06%20at%2012.55.51%E2%80%AFPM.png?alt=media&token=065839d7-21fb-4d26-a5f9-fdd72be302a1)
+
+**Eyewitness statement.** Officer body cam records eyewitness telling police the van hit the pedestrian. The eyewitness was omitted from the police report:
+
+![Eyewitness tells police van hit pedestrian](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FyWm7BkBg7FIIiFmoMjvL%2FScreenshot%202025-01-19%20at%205.37.34%E2%80%AFAM.png?alt=media&token=f15c266f-7a29-456c-8394-5e5b19997652)
+
+**911 call evidence.** From [911 Callers](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/911-callers):
+
+![911 call evidence](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FtonyTDjTwRFKzwPKi53W%2FScreenshot%202025-01-19%20at%205.29.05%E2%80%AFAM.png?alt=media&token=835fe2c0-4aec-4459-9d49-11a508dc2e0a)
+
+| Format | Link |
+|--------|------|
+| **Read on GitHub (Markdown)** | [evidence.md](evidence.md) |
+| **Embedded videos & images** | [evidence.html](evidence.html) |
+
+### 911 Call Evidence
+
+**Source:** [911 Callers (GitBook)](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/911-callers) — full transcripts, audio, and context.
+
+#### Call 1: Passerby Witness (approx. 2:45 PM)
+
+Citizen reporting hit-and-run several minutes after passing the victim crying for help. Provides probable cause: no van present, no one helping. Driver had fled.
+
+| Resource | Link |
+|----------|------|
+| **Listen** | [HIT-RUN-911.wav](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2Fe5wRmkO0sugks94khtDB%2FHIT-RUN-911.wav?alt=media&token=6d37a6be-fbc2-4d4b-a98e-d2e68494c2fe) |
+| **Transcript PDF** | [Official transcript of hit-and-run caller](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FQph361itYwuN5OV8mfGJ%2FOFFICIAL%20TRANSCRIPT%20OF%20911%20CALLER.pdf?alt=media&token=b9a77965-6c7e-41f8-b32d-504c2ef5b8a1) (observes Abdelhalim fled scene) |
+
+**Key excerpts:**
+
+> **911 Operator:** "Do you see the van there?"  
+> **Witness:** "No, there's no van that I could see ... Yeah, the guy's on the ground on the sidewalk."  
+> **Witness:** "It might be a hit and run. I don't know."
+
+*Caller is adamant: no van, no one helping the victim. Probable hit-and-run.*
+
+#### Call 2: Abdelhalim (14:53:15)
+
+13 minutes after striking victim, driver fled. Returned on foot, stood over victim offering $5 bill. Called 911 only after victim said he would be arrested if he did not call. Minutes later denied in police statement.
+
+| Resource | Link |
+|----------|------|
+| **Listen** | [ABDELHALIM-911.wav](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2Fvf0g6EWZWpZrQUTaNr0Q%2FABDELHALIM-911.wav?alt=media&token=62380da4-05c3-49eb-96f8-68251d336d0f) |
+| **Transcript PDF** | [Subhi Abdelhalim 911 transcript](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FiGMoyi685OPkB8oT0mah%2FSubhi%20Abdelhalim%20911%20Transcript.pdf?alt=media&token=6c49cd2f-8228-4d90-90c1-86654c15e155) (excited utterance admitting strike in crosswalk) |
+
+**Key excerpts:**
+
+> **Victim:** "He hit me with his van!"  
+> **Caller (Abdelhalim):** "I'm turning on to the right and he was **BOOM! I just hit him. HIT HIM.** There was barely anything. I'm calling the 911 for him."  
+> **911 Operator:** "So you were in your van, you were driving, and he was on the street, you hit a pedestrian?"  
+> **Caller:** "I was turning to the left side, and he was driving a scooter and he was crossing."  
+> **Caller:** "My name is **Subhi. S-U-B-H-I**, okay."
+
+*Excited utterance: driver admits striking pedestrian in crosswalk. Later denied at scene.*
+
+#### Other links
+
+| Resource | Link |
+|----------|------|
+| **911 calls (short link)** | [shorturl.at/XUpoC](https://shorturl.at/XUpoC) |
+| **Transcripts & audio (Google Drive)** | [Open folder](https://drive.google.com/drive/folders/1cIdJLjq6f8mfnv0ElMqfTQoifjWtJZlY?usp=sharing) |
+
+*Full transcript dialogs on [evidence.md](evidence.md) and [evidence.html](evidence.html).*
+
+### Police Body Camera Videos
+
+From [Police Body Cams (GitBook)](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/police-body-cams). Officer body cam records eyewitness testimony; police report omitted it.
+
+| Video | Link |
+|-------|------|
+| **Officer Thompson interviews eyewitness** | [YouTube](https://www.youtube.com/watch?v=G4en-DhfESE&t=61s) |
+| **Montage: Abdelhalim lies about striking victim** | [YouTube](https://youtu.be/q-uzqQIk-8I?t=518) |
+| **Police body cam footage** | [YouTube](https://youtu.be/Zy-DDUR687Y) |
+
+### Images
+
+All from [The Crime](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor) and [Police Body Cams](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/police-body-cams). The police report failed to mention the eyewitness, the 911 calls, or the impact marks on the van.
+
+| Description | Link |
+|-------------|------|
+| Scene evidence | [View](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FSL1RjhCBojp6GR9oeCow%2FScreenshot%202025-01-06%20at%201.32.37%E2%80%AFPM.png?alt=media&token=2ca92832-90d1-4ea9-8637-6f382f33ff04) |
+| Impact marks on van | [View](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FdU1vEZid42ToIcdTJW4F%2FScreenshot%202025-01-06%20at%2012.55.51%E2%80%AFPM.png?alt=media&token=065839d7-21fb-4d26-a5f9-fdd72be302a1) |
+| Officer body cam records eyewitness | [View](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FQVTyEHctWEEXFgH4Iuli%2FScreenshot%202025-01-19%20at%205.34.13%E2%80%AFAM.png?alt=media&token=7639935f-5462-4ee3-b5d9-e5e08bffdb3b) |
+| Eyewitness tells police van hit pedestrian | [View](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FyWm7BkBg7FIIiFmoMjvL%2FScreenshot%202025-01-19%20at%205.37.34%E2%80%AFAM.png?alt=media&token=f15c266f-7a29-456c-8394-5e5b19997652) |
+| Vehicle evidence | [View](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FXLlehRtjmzMIVj0tOgMm%2FScreenshot%202025-01-14%20at%2012.45.17%E2%80%AFPM.png?alt=media&token=e0fbfe5d-9292-4cbc-9b4a-d9daccb425ea) |
+
+### Documents
+
+| Document | Source | Link |
+|----------|--------|------|
+| **False Police Report (TCR)** | [The Crime](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor) | [PDF](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FNgJ2exQc9WiL4FsXXuCI%2FTCR.pdf?alt=media&token=a4acb498-745b-47ce-9dd0-7a8118170072) |
+| **Official transcript of hit-and-run caller** | [911 Callers](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/911-callers) | [PDF](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FQph361itYwuN5OV8mfGJ%2FOFFICIAL%20TRANSCRIPT%20OF%20911%20CALLER.pdf?alt=media&token=b9a77965-6c7e-41f8-b32d-504c2ef5b8a1) |
+| **Subhi Abdelhalim 911 transcript** | [911 Callers](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/911-callers) | [PDF](https://3454993913-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtIVN0Y2w6yXTopfO7VxT%2Fuploads%2FiGMoyi685OPkB8oT0mah%2FSubhi%20Abdelhalim%20911%20Transcript.pdf?alt=media&token=6c49cd2f-8228-4d90-90c1-86654c15e155) |
+
+### Source & Evidence Archive
+
+| Source | Description |
+|--------|-------------|
+| [The Crime (GitBook)](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor) | Incident summary, violations, SFPD failures |
+| [911 Callers (GitBook)](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/911-callers) | Both 911 calls: passerby witness + Abdelhalim; audio, transcripts, PDFs |
+| [Police Body Cams (GitBook)](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor/police-body-cams) | Officer Thompson eyewitness interview; Abdelhalim montage |
+| [Support the legal fund](https://www.spotfund.com/story/88e93d31-3915-409e-b4ac-e29a5d1fd6d6) | SpotFund |
+
+---
+
 ## Repository Structure
 
 ```
 .
 ├── README.md                    # This file
+├── evidence.md                  # Available evidence (read on GitHub)
+├── evidence.html                # Available evidence (embedded videos & images)
 ├── ROSARIO.md                   # Case overview and document index
 ├── NOVEL/                       # The narrative (Rosario v. Goliath)
 │   ├── README.md                # Novel index, abstract, chapter links
@@ -130,6 +245,7 @@ Plaintiff alleges the verdict was obtained through a scheme by which the defense
 
 ## References
 
+- [Available Evidence](evidence.md) | [evidence.html](evidence.html) (911 audio, body cam videos, images)
 - [Case overview and document index](ROSARIO.md)
 - [Fatal Proof of Extrinsic Fraud](FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md)
 - [Journal Article: Institutional Fraud, Record Architecture, and the Three-Front Pressure System](JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md)
