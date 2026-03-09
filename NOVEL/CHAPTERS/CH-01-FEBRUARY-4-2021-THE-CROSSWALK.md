@@ -20,7 +20,7 @@ That quality -- the refusal to abandon a broken thing, the instinct to push thro
 
 Rosario had taken that inheritance and built a career that would have been unrecognizable to his parents. Senior AI systems architect. The title sounds bureaucratic until you understand what the work actually requires. He designed the cognitive architectures of artificial intelligence systems -- the frameworks that determine how machines process information, make decisions, and learn from outcomes. The work demanded a specific and rare combination of capacities: the ability to hold an entire system architecture in working memory, to reason about interactions between dozens of components operating simultaneously, to switch between macro-level design and micro-level implementation in the same hour, the same meeting, the same sentence, and to sustain concentration at the highest level of abstraction for hours at a stretch, day after day, through the pressure of deadlines and the inherent difficulty of working at the frontier of what machines could be made to do.
 
-His W-2 compensation in the years before the collision ranged between $550,000 and $1,000,000 per year. Those numbers were not inherited. They were not the product of connections or an Ivy League pedigree. Every dollar represented a cognitive capacity that he had developed, refined, and deployed in the marketplace. The marketplace had valued those capacities at the highest tier of American professional compensation because they were rare, because they were real, and because the companies that employed him could not get what he provided from anyone else.
+He was a highly qualified senior AI Architect in the San Francisco tech market. That professional standing was not inherited. It was not the product of connections or an Ivy League pedigree. The marketplace had valued his capacities at the highest tier of American professional compensation because they were rare, because they were real, and because the companies that employed him could not get what he provided from anyone else.
 
 He pushed off from the corner of Fifth and Mission and began making his way west.
 
@@ -281,7 +281,7 @@ It begins in a crosswalk, on a cold February afternoon, in a city that was not p
 - The Lime scooter dies; Rosario pushes it
 - Character introduction: the man who does not abandon broken things
 - Immigrant parents, self-made career, AI systems architect
-- W-2: $550,000 to $1,000,000 per year
+- Highly qualified senior AI Architect in the San Francisco tech market
 - The quality of persistence as defining trait
 
 ### II. The Intersection (500 words)
@@ -414,7 +414,7 @@ It begins in a crosswalk, on a cold February afternoon, in a city that was not p
    - Hearing Transcript, February 18, 2025, pp. 139-140
 
 3. **Rosario's Background**
-   - DEMAND-LETTER-CSAA-75M.md: "senior AI systems architect," "W-2 compensation in the range of $550,000 to $1,000,000 per annum"
+   - DEMAND-LETTER-CSAA-75M.md: "senior AI systems architect," "highly qualified senior AI Architect in the San Francisco tech market"
    - "Past lost earnings over six years at a median rate of $750,000 total $4,500,000"
    - "Future earning capacity loss, given total occupational disability"
 

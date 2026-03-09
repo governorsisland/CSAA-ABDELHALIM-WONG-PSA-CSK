@@ -12,7 +12,7 @@
 
 ### Mr. Rosario's Employment History and Background
 
-Franciscus Dylan Rosario was a senior AI systems architect whose W-2 compensation in the years before the collision ranged between $550,000 and $1,000,000 per year. He was the lead architect for companies including Rowzzy Co, where employees such as Robert Bloodgood and Benjamin Giler worked with him.
+Franciscus Dylan Rosario was a highly qualified senior AI Architect in the San Francisco tech market. He was the lead architect for companies including Rowzzy Co, where employees such as Robert Bloodgood and Benjamin Giler worked with him.
 
 ### Subhi Abdelhalim and Sonoma Liquor
 
