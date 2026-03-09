@@ -10,15 +10,29 @@
 
 ## The Novel: Rosario v. Goliath
 
-### [Read the complete narrative →](NOVEL/README.md)
+<div align="center">
 
-**"I barely hit him with anything."** Five words spoken into a 911 dispatcher's phone, minutes after a San Francisco crosswalk collision. The driver's own admission. Twenty-one days later, an insurance company declared its investigation "concluded" without ever having heard them. Four years later, defense counsel told the court the evidence was "news to me" when it had been in their file for nearly two years. On Trial Day 7, the same counsel casually admitted: *"Sure. They were provided by Dolan."* The transcript captured both the lie and the confession.
+| |
+|:---:|
+| **📖 ROSARIO v. GOLIATH** |
+| *A Legal Thriller* |
+| *"I barely hit him."* Four words on a 911 call. The driver's confession. Twenty-one days later, an insurer denied without ever hearing it. Four years later, defense counsel told the court it was "news to me." The transcript captured both the lie and the confession. |
+| |
+| **Download for your device:** |
+| [📄 PDF](NOVEL/Rosario.Thriller.pdf) · [📱 EPUB](NOVEL/Rosario.Thriller.kindle.epub) · [📝 Markdown](NOVEL/Rosario.Thriller.md) |
+| [▶ **Read online (no download)**](NOVEL/reader.html) |
+| |
+
+</div>
 
 This is the story of how one brain-injured plaintiff, proceeding alone against a multi-billion-dollar insurer and its retained law firms, built from the defense's own record an architecture of accountability that turns every defense posture into a concession.
 
 | Format | Link |
 |--------|------|
-| **Full book (single file)** | [Rosario-v-Goliath-FULL.md](NOVEL/Rosario-v-Goliath-FULL.md) |
+| **Read online** | [reader.html](NOVEL/reader.html) |
+| **PDF** | [Rosario.Thriller.pdf](NOVEL/Rosario.Thriller.pdf) |
+| **EPUB** (Kindle, e-readers, phones) | [Rosario.Thriller.kindle.epub](NOVEL/Rosario.Thriller.kindle.epub) |
+| **Markdown** | [Rosario.Thriller.md](NOVEL/Rosario.Thriller.md) |
 | **Chapter index** | [NOVEL/README.md](NOVEL/README.md) |
 
 ---
@@ -52,7 +66,11 @@ Four years later, at the threshold of trial, defense counsel told the court the 
 ├── ROSARIO.md                   # Case overview and document index
 ├── NOVEL/                       # The narrative (Rosario v. Goliath)
 │   ├── README.md                # Novel index, abstract, chapter links
-│   └── Rosario-v-Goliath-FULL.md # Full book (single file)
+│   ├── Rosario.Thriller.md      # Full book (markdown)
+│   ├── Rosario.Thriller.pdf     # Full book (PDF)
+│   ├── Rosario.Thriller.kindle.epub # Full book (EPUB)
+│   ├── reader.html             # Read online (no download)
+│   └── CHAPTERS/                # Individual chapter files
 ├── 01-APPEAL/                   # Appeal A173827
 ├── 02-CASE-CGC-25-631801/       # Equity action (extrinsic fraud)
 ├── 03-CASE-CGC-25-631802/       # Insurance fraud / UCL action

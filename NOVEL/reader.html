@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rosario v. Goliath — Read Online</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    :root { --bg: #1a1a1a; --text: #e8e6e3; --accent: #c9a227; --muted: #888; }
+    * { box-sizing: border-box; }
+    body { font-family: Georgia, 'Times New Roman', serif; background: var(--bg); color: var(--text); line-height: 1.7; margin: 0; padding: 1rem 2rem 3rem; max-width: 48rem; margin: 0 auto; }
+    h1, h2, h3 { color: var(--accent); font-weight: 600; }
+    h1 { font-size: 1.75rem; border-bottom: 1px solid var(--muted); padding-bottom: 0.5rem; }
+    h2 { font-size: 1.35rem; margin-top: 2rem; }
+    h3 { font-size: 1.15rem; }
+    blockquote { border-left: 4px solid var(--accent); margin: 1.5rem 0; padding-left: 1rem; color: var(--muted); }
+    hr { border: none; border-top: 1px solid var(--muted); margin: 2rem 0; }
+    a { color: var(--accent); }
+    #content { margin-top: 2rem; }
+    .back { margin-bottom: 2rem; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <p class="back"><a href="README.md">← Back to novel index</a></p>
+  <div id="content">Loading…</div>
+  <script>
+    fetch('Rosario.Thriller.md')
+      .then(r => r.text())
+      .then(md => { document.getElementById('content').innerHTML = marked.parse(md); })
+      .catch(() => { document.getElementById('content').innerHTML = '<p>Could not load. <a href="Rosario.Thriller.md">Open markdown directly</a>.</p>'; });
+  </script>
+</body>
+</html>
